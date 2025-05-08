@@ -2,6 +2,15 @@
 
 This project demonstrates the use of Hugging Face's `t5-small` model for abstractive text summarization using the PyTorch framework. It enables users to input any text and receive a concise summary powered by the T5 transformer architecture.
 
+## 👨‍💻 Intern Details
+
+**Company:** CODTECH IT SOLUTIONS  
+**Name:** Emil Saj Abraham  
+**Intern ID:** CT08DL252  
+**Domain:** AI  
+**Duration:** 8 weeks  
+**Mentor:** Neela Santhosh
+
 ## 🚀 Features
 
 - 🔍 Accepts raw text input from the user
@@ -50,11 +59,3 @@ python summarize.py
 
 ---
 
-## 👨‍💻 Intern Details
-
-**Company:** CODTECH IT SOLUTIONS  
-**Name:** Emil Saj Abraham  
-**Intern ID:** CT08DL252  
-**Domain:** AI  
-**Duration:** 8 weeks  
-**Mentor:** Neela Santhosh
